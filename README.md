@@ -1,6 +1,6 @@
 ### Hi, I'm Batuhan Baran 🙋🏽‍♂️
 
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<h3 align="center">A passionate iOS developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanbaran&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanbaran" /> </p>
 
